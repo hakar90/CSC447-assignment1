@@ -1,0 +1,2 @@
+mpicc -o Assignment1DynamicCode Assignment1DynamicCode.c
+mpirun -n 8 ./Assignment1DynamicCode
