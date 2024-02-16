@@ -1,0 +1,2 @@
+mpicc -o Assignment1StaticCode Assignment1StaticCode.c
+mpirun -n 8 ./Assignment1StaticCode
